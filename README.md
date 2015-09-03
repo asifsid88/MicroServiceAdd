@@ -1,5 +1,5 @@
 # MicroService Add
-MicroService Architecture example: A service which performs simple Arithmatic Add operation
+MicroService Architecture example: A service which performs simple Arithmetic Add operation
 
 How to Use
 ===========
